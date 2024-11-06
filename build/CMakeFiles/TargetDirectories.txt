@@ -1,0 +1,3 @@
+/home/propp/Downloads/cmake/build/CMakeFiles/hello.dir
+/home/propp/Downloads/cmake/build/CMakeFiles/edit_cache.dir
+/home/propp/Downloads/cmake/build/CMakeFiles/rebuild_cache.dir
